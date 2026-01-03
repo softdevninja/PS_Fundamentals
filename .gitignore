@@ -1,0 +1,34 @@
+# Dependencies
+/node_modules
+.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production build files
+/build
+/dist
+/tmp
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.rpt2_cache/
+.eslintcache
+.stylelintcache
+.serverless/
+.dynamodb/
+.terraform/
+
+# OS and Editor files
+.DS_Store
+.vscode
