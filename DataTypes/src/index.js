@@ -1,4 +1,11 @@
 /**
+ * @fileoverview Sampling data types using PS_Fundamentals for supplemental learning materials.
+ * @author Doug Zuniga <doug.biz@outlook.com>
+ * @version 1.0.0
+ * @license N/A
+ */
+
+/**
  *  JavasScript Engines
  *  - V8 (Google Chrome, Microsoft Edge)
  *  - JavaScript Core (Safari)
