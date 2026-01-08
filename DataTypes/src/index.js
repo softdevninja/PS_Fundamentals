@@ -21,3 +21,14 @@ let firstName = "Doug";
 let lastName = "Z";
 
 console.log(`Hello ${firstName} ${lastName}`);
+
+/*
+Keywords:
+const - Does not change ergo static
+let - Adjustable / dynamic
+var - Obsolete / no longer recommended
+
+Data Types:
+
+ */
+
